@@ -241,3 +241,5 @@ const styles = StyleSheet.create({
     borderColor: '#CCCCCC', // Color del borde
   },
 });
+
+
